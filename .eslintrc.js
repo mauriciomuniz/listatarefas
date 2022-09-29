@@ -6,7 +6,7 @@ module.exports = {
     node: true,
   },
   extends: [
-    'eslint:recommended',
+    // 'eslint:airbnb-base',
     'plugin:react/recommended',
     'plugin:react-hooks/recommended',
     'plugin:prettier/recommended',
